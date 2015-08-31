@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{1EBA490C-90D6-8ABB-D65B-720061375732}</ProjectGuid>
+	<ProjectGuid>{0F759AA2-CADE-D537-ECD5-72CB45BF86E4}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,22 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\v1\Scripts\BackgroundMusic_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\GameOverPopup_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\GamePauseButton_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\GamePauseMenu_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\GameScreenManager_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\PlayerScripts\CollisionBox_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\PlayerScripts\Fighter_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\PlayerScripts\FreezeAxis.cs" />
-     <Compile Include="Assets\v1\Scripts\PlayerScripts\HealthManager_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\SceneChangeButton_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\SceneChangeManager_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\ScreenFader.cs" />
-     <Compile Include="Assets\v1\Scripts\Unused\AveragePlayer_Script.cs" />
-     <Compile Include="Assets\v1\Scripts\Unused\CameraControlComponent.cs" />
-     <Compile Include="Assets\v2\Scripts\FightOverPopUp.cs" />
-     <Compile Include="Assets\v2\Scripts\GameSceneController.cs" />
+     <Compile Include="Assets\v2\Scripts\AttackInfo.cs" />
+     <Compile Include="Assets\v2\Scripts\FightStateManager.cs" />
+     <Compile Include="Assets\v2\Scripts\Fighter_Script.cs" />
+     <Compile Include="Assets\v2\Scripts\FreezeAxis.cs" />
+     <Compile Include="Assets\v2\Scripts\GameOverPopup_Script.cs" />
+     <Compile Include="Assets\v2\Scripts\GameSceneLoader.cs" />
+     <Compile Include="Assets\v2\Scripts\HealthManager_Script.cs" />
+     <Compile Include="Assets\v2\Scripts\Not yet used\CollisionBox_Script.cs" />
+     <Compile Include="Assets\v2\Scripts\Not yet used\GamePauseMenu_Script.cs" />
+     <Compile Include="Assets\v2\Scripts\Not yet used\Probably wont use\GamePauseButton_Script.cs" />
+     <Compile Include="Assets\v2\Scripts\Not yet used\Probably wont use\KeyBoardInputController.cs" />
+     <Compile Include="Assets\v2\Scripts\Not yet used\Probably wont use\SceneChangeButton_Script.cs" />
+     <Compile Include="Assets\v2\Scripts\Not yet used\ScreenFader.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>S:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

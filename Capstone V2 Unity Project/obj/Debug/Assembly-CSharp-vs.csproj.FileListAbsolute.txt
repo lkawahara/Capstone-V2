@@ -9,3 +9,27 @@ C:\Users\layne_000\Desktop\Capstone-LayneKawahara\Capstone_Unity\Temp\bin\Debug\
 C:\Users\layne_000\Desktop\Capstone-LayneKawahara\Capstone_Unity\obj\Debug\Assembly-CSharp.dll
 C:\Users\layne_000\Desktop\Capstone-LayneKawahara\Capstone_Unity\obj\Debug\Assembly-CSharp.pdb
 C:\Users\layne_000\Desktop\Capstone-LayneKawahara\Capstone_Unity\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEditor.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.xml
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEditor.xml
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\obj\Debug\Assembly-CSharp.dll
+S:\Capstone-LayneKawahara\Capstone-V2\Capstone V2 Unity Project\obj\Debug\Assembly-CSharp.pdb
